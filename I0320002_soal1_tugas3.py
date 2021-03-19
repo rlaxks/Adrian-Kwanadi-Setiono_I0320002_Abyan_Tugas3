@@ -26,6 +26,8 @@ print('Perkenalkan teman-teman aku: ', list)
 
 #menampilkan semua teman dengan perulangan
 
+for x in list:
+    print(x)
 
 #menampilkan panjang list
 
